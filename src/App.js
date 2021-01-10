@@ -10,7 +10,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      appName: 'Crud ReactJS + PHP',
+      appName: 'Login Page ReactJS',
     };
   }
 

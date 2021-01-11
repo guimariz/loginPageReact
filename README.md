@@ -1,4 +1,4 @@
-## Login Page criada como estudo de React.\
+## Login Page criada como estudo de React.
 Dados para teste:\
 Login: srinivas\
 Senha: 123456

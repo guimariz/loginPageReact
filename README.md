@@ -1,9 +1,7 @@
 Login Page criada como estudo de React.\
 Dados para teste:\
-Login:\
-srinivas\
-Senha:\
-123456
+Login: srinivas\
+Senha: 123456
 
 # Getting Started with Create React App
 

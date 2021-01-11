@@ -1,3 +1,10 @@
+Login Page criada como estudo de React.
+Dados para teste:
+Login:
+srinivas
+Senha:
+123456
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

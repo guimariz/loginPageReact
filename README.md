@@ -1,5 +1,5 @@
 ## Login Page criada como estudo de React.
-Dados para teste:\
+Dados para teste:
 Login: srinivas\
 Senha: 123456
 
